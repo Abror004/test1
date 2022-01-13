@@ -12,7 +12,7 @@ class _LastPageState extends State<LastPage> {
   Widget build(BuildContext context) {
     return Scaffold(
       body: Container(
-        color: Colors.red,
+        color: Colors.blue,
       ),
     );
   }
